@@ -29,7 +29,7 @@ easy-to-use [Jingo](https://github.com/jbalogh/jingo) adapter.
 
 ## Installation
 
-Download via pip [![pip badge](https://pypip.in/version/django-model-urls/badge.svg)](https://pypi.python.org/pypi/django-model-urls/)
+Download via pip [![pip badge](https://img.shields.io/pypi/v/django-model-urls.svg)](https://pypi.python.org/pypi/django-model-urls/)
 
 ```bash
 pip install django-model-urls
